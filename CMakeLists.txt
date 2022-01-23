@@ -7,3 +7,4 @@ set(CMAKE_CXX_STANDARD 14)
 # Example
 add_executable(1000 Chapter1/Example/1000.cpp)
 add_executable(2060 Chapter1/Example/2060.cpp)
+add_executable(2061 Chapter1/Example/2061.cpp)
