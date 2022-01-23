@@ -22,3 +22,4 @@ add_executable(1005 Chapter1/Pracrice/1005.cpp)
 # Example
 add_executable(2064 Chapter2/Example/2064.cpp)
 add_executable(2065 Chapter2/Example/2065.cpp)
+add_executable(2066 Chapter2/Example/2066.cpp)
