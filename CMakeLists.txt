@@ -30,3 +30,4 @@ add_executable(2069 Chapter2/Example/2069.cpp)
 # Practice
 add_executable(1006 Chapter2/Practice/1006.cpp)
 add_executable(1007 Chapter2/Practice/1007.cpp)
+add_executable(1008 Chapter2/Practice/1008.cpp)
