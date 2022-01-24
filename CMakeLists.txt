@@ -203,3 +203,6 @@ add_executable(2037 Chapter5/Example/2037.cpp)
 add_executable(2038 Chapter5/Example/2038.cpp)
 add_executable(2039 Chapter5/Example/2039.cpp)
 add_executable(2040 Chapter5/Example/2040.cpp)
+
+# Practice
+add_executable(1102 Chapter5/Practice/1102.cpp)
