@@ -8,6 +8,7 @@ set (CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -lstdc++")
 
 # Chapter 1
 # Example
+add_executable(1000 Chapter1/Example/1000.cpp)
 add_executable(2060 Chapter1/Example/2060.cpp)
 add_executable(2060s Chapter1/Example/2060s.cpp)
 add_executable(2061 Chapter1/Example/2061.cpp)
@@ -24,7 +25,6 @@ add_executable(1001 Chapter1/Practice/1001.cpp)
 add_executable(1002 Chapter1/Practice/1002.cpp)
 add_executable(1003 Chapter1/Practice/1003.cpp)
 add_executable(1005 Chapter1/Practice/1005.cpp)
-add_executable(1000 Chapter1/Practice/1000.cpp)
 
 # Chapter 2
 # Example
@@ -55,6 +55,7 @@ add_executable(2069 Chapter2/Example/2069.cpp)
 add_executable(2070 Chapter2/Example/2070.cpp)
 add_executable(2071s Chapter2/Example/2071s.cpp)
 add_executable(2071 Chapter2/Example/2071.cpp)
+add_executable(2072 Chapter2/Example/2072.cpp)
 add_executable(2072s Chapter2/Example/2072s.cpp)
 add_executable(2073s Chapter2/Example/2073s.cpp)
 add_executable(2073 Chapter2/Example/2073.cpp)
@@ -187,3 +188,4 @@ add_executable(1093 Chapter4/Practice/1093.cpp)
 add_executable(1094 Chapter4/Practice/1094.cpp)
 add_executable(1095 Chapter4/Practice/1095.cpp)
 add_executable(1096 Chapter4/Practice/1096.cpp)
+add_executable(1097)
