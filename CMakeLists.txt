@@ -65,3 +65,7 @@ add_executable(1035 Chapter2/Practice/1035.cpp)
 add_executable(1036 Chapter2/Practice/1036.cpp)
 add_executable(1037 Chapter2/Practice/1037.cpp)
 add_executable(1038 Chapter2/Practice/1038.cpp)
+
+# Chapter3
+# Example
+add_executable(2051 Chapter3/Example/2051.cpp)
