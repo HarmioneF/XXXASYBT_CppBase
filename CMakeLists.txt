@@ -75,6 +75,7 @@ add_executable(2054 Chapter3/Example/2054.cpp)
 add_executable(2055 Chapter3/Example/2055.cpp)
 add_executable(2056 Chapter3/Example/2056.cpp)
 add_executable(2057 Chapter3/Example/2057.cpp)
+add_executable(2058 Chapter3/Example/2058.cpp)
 
 # Practice
 add_executable(1039 Chapter3/Practice/1039.cpp)
