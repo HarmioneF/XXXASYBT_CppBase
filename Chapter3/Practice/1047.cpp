@@ -8,7 +8,7 @@ int main() {
 
     if ((num % 3 == 0) && (num % 5 == 0) && (num % 7 == 0))
         cout << "3 5 7" << endl;
-    else if ((num % 3 == 0) && (num % 5 == 0))
+    else if ((num % 3 ==0) && (num % 5 == 0))
         cout << "3 5" << endl;
     else if ((num % 3 == 0) && (num % 7 == 0))
         cout << "3 7" << endl;

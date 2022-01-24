@@ -13,5 +13,6 @@ int main() {
     ans = n / v + 1;
 
     printf("%d", ans);
+
     return 0;
 }

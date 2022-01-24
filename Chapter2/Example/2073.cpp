@@ -1,16 +1,14 @@
-#include <iostream>
+#include<cstdio>
 #include <cmath>
-#include <iomanip>
-
-using namespace std;
 
 int main() {
-    double a, b, c, p, s;
+    float a, b, c;
 
-    cin >> a >> b >> c;
-    p = (a + b + c) / 2;
-    s = sqrt(p * (p - a) * (p - b) * (p - c));
+    scanf("%f %f %f", &a, &b, &c);          // 输入三角形的三边
+    float p = (a + b + c) / 2;          // 求出p的值
+    float s = sqrt(p * (p - a) * (p - b) * (p - c));        // 根据p求面积，sqrt是开平方函数
 
-    cout << fixed << setprecision(3) << s << endl;
+    printf("%0.3f\n", s);       // 输出面积，0.3f按实际位数输出，保留3位小数
+
     return 0;
 }

@@ -9,5 +9,6 @@ int main() {
     ans = (a + b) / c;
 
     cout << ans << endl;
+
     return 0;
 }

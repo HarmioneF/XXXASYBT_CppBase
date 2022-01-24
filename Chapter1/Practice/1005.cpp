@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int main(){
     int x, y, a, b;
     double ans;
     scanf("%d %d %d %d", &x, &a, &y, &b);

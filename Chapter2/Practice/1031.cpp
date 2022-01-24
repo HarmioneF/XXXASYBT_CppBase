@@ -11,5 +11,6 @@ int main() {
     c = n % 10;
 
     cout << c << b << a << endl;
+
     return 0;
 }

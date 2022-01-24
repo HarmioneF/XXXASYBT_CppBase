@@ -1,7 +1,6 @@
-#include<iostream>              // ä½¿ç”¨cin,coutï¼Œéœ€è°ƒç”¨iostreamåº“ï¼Œå¦åˆ™ç¼–è¯‘å‡ºé”™
-
-using namespace std;            // åœ¨Cè¯­è¨€ä¸­è¦çœç•¥ï¼Œä¾‹å¦‚åœ¨VC++å’ŒTC++ä¸­
-int main() {                     // æœ‰çš„Cè¯­è¨€å¯ä»¥ä½¿ç”¨void main(),ä¾‹å¦‚TC++å’ŒVC++
-    cout << "Hello World!" << endl;     // è¾“å‡º"Hello World!"
-    return 0;                   // ç»“æŸæ•´ä¸ªç¨‹åºï¼Œåœ¨TC++å’ŒVC++ä¸­ä¹Ÿè¦ä¿ç•™
+#include<iostream>              // Ê¹ÓÃcin,cout£¬Ğèµ÷ÓÃiostream¿â£¬·ñÔò±àÒë³ö´í
+using namespace std;            // ÔÚCÓïÑÔÖĞÒªÊ¡ÂÔ£¬ÀıÈçÔÚVC++ºÍTC++ÖĞ
+int main(){                     // ÓĞµÄCÓïÑÔ¿ÉÒÔÊ¹ÓÃvoid main(),ÀıÈçTC++ºÍVC++
+    cout << "Hello World!" << endl;     // Êä³ö"Hello World!"
+    return 0;                   // ½áÊøÕû¸ö³ÌĞò£¬ÔÚTC++ºÍVC++ÖĞÒ²Òª±£Áô
 }

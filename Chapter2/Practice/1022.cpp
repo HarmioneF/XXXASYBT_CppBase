@@ -10,5 +10,6 @@ int main() {
     b = a;
 
     cout << b << endl;
+
     return 0;
 }

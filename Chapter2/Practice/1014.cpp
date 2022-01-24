@@ -15,5 +15,6 @@ int main() {
     s = PI * pow(r, 2);
 
     cout << fixed << setprecision(4) << d << " " << c << " " << s << endl;
+
     return 0;
 }

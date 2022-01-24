@@ -3,10 +3,8 @@
  * 的新生草量），两者的差值即为10天内的新生草量。程序如下：
 */
 #include<iostream>
-
 using namespace std;
-
-int main() {
+int main(){
     int s1, s2, s3;         // 定义变量
     s1 = 15 * 20;           // 15头牛20天所食的草量
     s2 = 20 * 10;           // 20头牛10天所食的草量

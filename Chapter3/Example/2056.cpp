@@ -14,5 +14,6 @@ int main() {
         max_num = c;
 
     cout << max_num << endl;
+
     return 0;
 }

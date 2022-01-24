@@ -10,5 +10,6 @@ int main() {
     ans = 1.0 / ((1.0 / r1) + (1.0 / r2));
 
     cout << fixed << setprecision(2) << ans << endl;
+
     return 0;
 }

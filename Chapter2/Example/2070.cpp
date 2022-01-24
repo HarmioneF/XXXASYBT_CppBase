@@ -11,6 +11,7 @@ int main() {
     int c = m % 10;     // 个位数
     int n = c * 100 + b * 10 + a;       // 重新组合对调后的数
 
-    cout << n << endl;        // 输出结果
+    cout << "n = " << n << endl;        // 输出结果
+
     return 0;
 }

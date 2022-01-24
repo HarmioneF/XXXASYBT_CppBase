@@ -8,5 +8,6 @@ int main() {
     cin >> a;
     if ((a > 1) && (a < 100))
         cout << "yes" << endl;
+
     return 0;
 }

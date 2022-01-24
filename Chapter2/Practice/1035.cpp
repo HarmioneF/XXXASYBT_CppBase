@@ -10,5 +10,6 @@ int main() {
     int xz = a1 + (n - 1) * gc;         // 等差数列求项值：首项 + (项数 - 1) * 公差
 
     cout << xz << endl;
+
     return 0;
 }

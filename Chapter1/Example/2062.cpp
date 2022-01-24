@@ -1,11 +1,10 @@
-#include<iostream>      // ä½¿ç”¨cin,coutï¼Œéœ€è°ƒç”¨iostreamåº“
-/* #include<cstdio> */     // ä½¿ç”¨printfå’Œscanfï¼Œéœ€è°ƒç”¨cstdioåº“
+#include<iostream>      // Ê¹ÓÃcin,cout£¬Ğèµ÷ÓÃiostream¿â
+/* #include<cstdio> */     // Ê¹ÓÃprintfºÍscanf£¬Ğèµ÷ÓÃcstdio¿â
 using namespace std;
-
-int main() {
-    int x, y;       // å®šä¹‰æ•´å‹å˜é‡
-    cin >> x;       // è‹¥è°ƒç”¨çš„æ˜¯cstdioåº“ï¼Œå¯ä½¿ç”¨scanf("%d", &x);
-    y = 10 * x;     // è®¡ç®—æ€»ç¥¨ä»·
-    cout << x << " " << y << endl;      // è‹¥è°ƒç”¨çš„æ˜¯cstdioåº“ï¼Œå¯ä½¿ç”¨printf("%d %d\n", x, y);æ³¨æ„%d %dä¹‹é—´ç©ºæ ¼
-    return 0;       // ç»“æŸç¨‹åº
+int main(){
+    int x, y;       // ¶¨ÒåÕûĞÍ±äÁ¿
+    cin >> x;       // Èôµ÷ÓÃµÄÊÇcstdio¿â£¬¿ÉÊ¹ÓÃscanf("%d", &x);
+    y = 10 * x;     // ¼ÆËã×ÜÆ±¼Û
+    cout << x << " " << y << endl;      // Èôµ÷ÓÃµÄÊÇcstdio¿â£¬¿ÉÊ¹ÓÃprintf("%d %d\n", x, y);×¢Òâ%d %dÖ®¼ä¿Õ¸ñ
+    return 0;       // ½áÊø³ÌĞò
 }

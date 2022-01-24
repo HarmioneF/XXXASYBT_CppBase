@@ -7,5 +7,6 @@ int main() {
     char y;
 
     cout << sizeof(x) << " " << sizeof(y) << endl;
+
     return 0;
 }

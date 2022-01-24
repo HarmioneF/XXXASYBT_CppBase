@@ -10,5 +10,6 @@ int main() {
     ans2 = a % b;
 
     cout << ans1 << " " << ans2 << endl;
+
     return 0;
 }

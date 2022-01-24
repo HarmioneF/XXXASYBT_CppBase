@@ -3,8 +3,10 @@
 using namespace std;
 
 int main() {
-    char x;
+    int x;
+
     cin >> x;
-    cout << (int) x << endl;
+    cout << (char)x << endl;
+
     return 0;
 }

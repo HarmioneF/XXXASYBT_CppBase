@@ -1,17 +1,13 @@
-#include <iostream>
-#include <cmath>
-#include <iomanip>
-
-#define PI 3.14159
-
+#include <cstdio>
 using namespace std;
-
-int main() {
+const double PI=3.14159;
+int main()
+{
     double r, d, c, s;
-    cin >> r;
+    scanf("%lf", &r);
     d = 2 * r;
     c = 2 * PI * r;
-    s = PI * pow(r, 2);
-    cout << fixed << setprecision(4) << d << " " << c << " " << s << endl;
+    s = PI * r * r;
+    printf("%.4lf %.4lf %.4lf", d, c, s)
     return 0;
 }

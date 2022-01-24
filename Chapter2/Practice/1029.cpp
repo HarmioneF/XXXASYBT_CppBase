@@ -1,14 +1,14 @@
-#include <iostream>
-
-using namespace std;
+#include <cstdio>
 
 int main() {
-    double a, b, r, k;
+    double a, b, r;
+    int k;
 
-    cin >> a >> b;
+    scanf("%lf %lf", &a, &b);
     k = int(a / b);
     r = a - k * b;
 
-    cout << r << endl;
+    printf("%.4lf", r);
+
     return 0;
 }

@@ -15,5 +15,6 @@ int main() {
     cin >> d;
 
     cout << a << " " << b << " " << fixed << setprecision(6) << c << " " << d << endl;
+
     return 0;
 }
