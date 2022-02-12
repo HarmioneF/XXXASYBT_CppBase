@@ -209,6 +209,7 @@ add_executable(L5.11 Chapter5/Example/L5.11.cpp)
 add_executable(L5.12 Chapter5/Example/L5.12.cpp)
 add_executable(2046 Chapter5/Example/2046.cpp)
 add_executable(2047 Chapter5/Example/2047.cpp)
+add_executable(2050 Chapter5/Example/2050.cpp)
 add_executable(1839 Chapter5/Example/1839.cpp)
 
 # Practice
