@@ -240,3 +240,4 @@ add_executable(P1.8_05 Chapter5/Practice/P1.8_05.cpp)
 # Example
 add_executable(js Chapter6/Example/js.cpp)
 add_executable(czdy1 Chapter6/Example/传值调用.cpp)
+add_executable(czdy2 Chapter6/Example/传址调用.cpp)
