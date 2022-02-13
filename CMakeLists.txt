@@ -235,3 +235,7 @@ add_executable(P1.8_02 Chapter5/Practice/P1.8_02.cpp)
 add_executable(P1.8_03 Chapter5/Practice/P1.8_03.cpp)
 add_executable(P1.8_04 Chapter5/Practice/P1.8_04.cpp)
 add_executable(P1.8_05 Chapter5/Practice/P1.8_05.cpp)
+
+# Chapter6
+# Example
+add_executable(js Chapter6/Example/js.cpp)
