@@ -253,3 +253,4 @@ add_executable(L6.9 Chapter6/Example/L6.9.cpp)
 # Recursive Algorithm
 add_executable(L6.10 Chapter6/Example/L6.10.cpp)
 add_executable(L6.11 Chapter6/Example/L6.11.cpp)
+add_executable(L6.12 Chapter6/Example/L6.12.cpp)
