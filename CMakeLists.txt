@@ -255,3 +255,7 @@ add_executable(L6.10 Chapter6/Example/L6.10.cpp)
 add_executable(L6.11 Chapter6/Example/L6.11.cpp)
 add_executable(L6.12 Chapter6/Example/L6.12.cpp)
 add_executable(L6.13 Chapter6/Example/L6.13.cpp)
+
+# Chapter7
+# Example
+add_executable(L7.1 Chapter7/Example/L7.1.cpp)
