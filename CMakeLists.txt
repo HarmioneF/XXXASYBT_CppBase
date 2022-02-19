@@ -266,3 +266,4 @@ add_executable(L7.3 Chapter7/Example/L7.3.cpp)
 
 # Chapter8
 add_executable(L8.1 Chapter8/L8.1.cpp)
+add_executable(L8.2 Chapter8/L8.2.cpp)
