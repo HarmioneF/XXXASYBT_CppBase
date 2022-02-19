@@ -263,3 +263,6 @@ add_executable(Lfopen Chapter7/Example/Lfopen.cpp)
 add_executable(Lfstream Chapter7/Example/Lfstream.cpp)
 add_executable(L7.2 Chapter7/Example/L7.2.cpp)
 add_executable(L7.3 Chapter7/Example/L7.3.cpp)
+
+# Chapter8
+add_executable(L8.1 Chapter8/L8.1.cpp)
