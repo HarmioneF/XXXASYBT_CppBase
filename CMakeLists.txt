@@ -259,3 +259,4 @@ add_executable(L6.13 Chapter6/Example/L6.13.cpp)
 # Chapter7
 # Example
 add_executable(L7.1 Chapter7/Example/L7.1.cpp)
+add_executable(L7.2 Chapter7/Example/L7.2.cpp)
